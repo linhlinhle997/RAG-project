@@ -7,9 +7,10 @@ This repository contains the implementation of a Retrieval-Augmented Generation 
 git clone https://github.com/linhlinhle997/RAG-project.git
 cd RAG-project
 ```
-### 2. Google Colab setup
-- Ensure your Google Colab environment has GPU enabled
-- Install necessary packages within the Colab notebook
+### 2. Open the notebook in `Google Colab`
+Ensure your Google Colab environment has GPU enabled
+### 3. Follow the instructions in the notebook
+The notebook provides step-by-step guidance on setting up and running the RAG system.
 
 ## Usage
 ### 1. Run the RAG system:
