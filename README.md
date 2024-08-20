@@ -3,7 +3,7 @@ This repository contains the implementation of a Retrieval-Augmented Generation 
 
 ## Installation
 ### 1. Clone the repository
-```sh
+```bash
 git clone https://github.com/linhlinhle997/RAG-project.git
 cd RAG-project
 ```
